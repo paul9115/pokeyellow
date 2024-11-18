@@ -8,7 +8,7 @@
   - Golem: Evolves at level 40.
   - Machamp: Evolves at level 38.
   - Gengar: Evolves at level 36.
-- Since Pikachu can't evolve, it now has Raichu's base stats.
+- Since Pikachu can't evolve, it now has the partner pikachu from lets go base stats.
 
 #### Bug Fixes
 - **Generation 1 Fixes**:
